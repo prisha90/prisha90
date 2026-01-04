@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m @prisha90<br>- 👀 I’m interested in everthing literally (Game dev and app dev mostly rn)<br>
+- 👋 Hi, I’m @prisha90<br>
+- 👀 I’m interested in everthing literally (Game dev and app dev mostly rn)<br>
 - 🌱 I have projects in Web Dev, Full Stack Dev, MERN Stack Dev, ML, DL and Python<br>
 - ⚡ Fun fact: I hated coding, but doing projects made me start liking it.
 
