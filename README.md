@@ -1,8 +1,22 @@
 # 💫 About Me:
-- 👋 Hi, I’m @prisha90<br>
-- 👀 I’m interested in everthing literally (Game dev and app dev mostly rn)<br>
-- 🌱 I have projects in Web Dev, Full Stack Dev, MERN Stack Dev, ML, DL and Python<br>
-- ⚡ Fun fact: I hated coding, but doing projects made me start liking it.
+Hey there! 👋 I’m Prisha (@prisha90)
+<br>
+🎓 B.E. (Hons.) Computer Science
+🤖 Exploring the intersection of AI, Machine Learning, and Full-Stack Development
+
+I’m someone who enjoys learning by building. What started as a reluctance towards coding slowly turned into genuine curiosity—and now, into a habit of shipping projects 🚀. From web apps to deep learning pipelines, I like working on ideas that are both technically challenging and practically useful.
+
+Currently, my interests revolve around:
+
+Machine Learning & Deep Learning (especially Computer Vision)
+
+Medical Imaging & Trustworthy AI
+
+Full-Stack & MERN applications
+
+Experimenting with new tools, frameworks, and architectures
+
+⚡ Fun fact: I didn’t like coding initially—but projects changed everything.
 
 
 ## 🌐 Socials:
