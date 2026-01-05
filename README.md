@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Prisha Agarwal" />
+</p>
+
 # 💫 About Me:
 Hey there! 👋 I’m Prisha (@prisha90)
 <br>
