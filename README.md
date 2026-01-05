@@ -6,49 +6,17 @@ Hey there! 👋 I’m Prisha (@prisha90)
 
 I’m someone who enjoys learning by building. What started as a reluctance towards coding slowly turned into genuine curiosity and now, into a habit of shipping projects 🚀. From web apps to deep learning pipelines, I like working on ideas that are both technically challenging and practically useful.
 
-Currently, my interests revolve around:
-
-Machine Learning & Deep Learning (especially Computer Vision)
-
-Medical Imaging & Trustworthy AI
-
-Full-Stack & MERN applications
-
-Experimenting with new tools, frameworks, and architectures
-
 ⚡ Fun fact: I didn’t like coding initially but projects changed everything.
 
 # What I’m Working On
 
 🧠 Computer Vision & Medical Imaging
 
-Optic Disc/Cup segmentation using U-Net & EfficientNet
-
-Feature extraction (CDR, ISNT rule, vessel ratios)
-
-Classification using SVM, MLP, AdaBoost
-
-Performance tuning, class imbalance handling, and evaluation
-
 🤝 Trust & Fairness in AI
 
-Evaluating toxicity, bias, and fairness metrics
-
-Working with demographic parity & equalized odds
-
-🌐 Web & Full-Stack Projects
-
-MERN stack applications
-
-Authentication systems (JWT, OTP flows)
-
-Clean UI with modern component libraries
+🌐 Web, App & Full-Stack Projects
 
 📚 Academic + Applied CS
-
-Algorithms, data mining, compiler design
-
-Balancing research thinking with hands-on implementation
 
 # What You’ll Find on My GitHub
 
@@ -60,7 +28,7 @@ Balancing research thinking with hands-on implementation
 
 📖 Academic + course-related implementations
 
-I believe in writing readable code, understanding what I build, and continuously improving—one repo at a time.
+I believe in writing readable code, understanding what I build and continuously improving 'one repo at a time'.
 
 
 ## 🌐 Socials:
@@ -79,7 +47,6 @@ I believe in writing readable code, understanding what I build, and continuously
 ---
 [![](https://visitcount.itsvg.in/api?id=prisha90&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 prisha90/prisha90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
