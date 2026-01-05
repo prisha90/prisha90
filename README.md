@@ -4,7 +4,7 @@ Hey there! 👋 I’m Prisha (@prisha90)
 🎓 B.E. (Hons.) Computer Science
 🤖 Exploring the intersection of AI, Machine Learning, and Full-Stack Development
 
-I’m someone who enjoys learning by building. What started as a reluctance towards coding slowly turned into genuine curiosity—and now, into a habit of shipping projects 🚀. From web apps to deep learning pipelines, I like working on ideas that are both technically challenging and practically useful.
+I’m someone who enjoys learning by building. What started as a reluctance towards coding slowly turned into genuine curiosity and now, into a habit of shipping projects 🚀. From web apps to deep learning pipelines, I like working on ideas that are both technically challenging and practically useful.
 
 Currently, my interests revolve around:
 
@@ -16,7 +16,51 @@ Full-Stack & MERN applications
 
 Experimenting with new tools, frameworks, and architectures
 
-⚡ Fun fact: I didn’t like coding initially—but projects changed everything.
+⚡ Fun fact: I didn’t like coding initially but projects changed everything.
+
+# What I’m Working On
+
+🧠 Computer Vision & Medical Imaging
+
+Optic Disc/Cup segmentation using U-Net & EfficientNet
+
+Feature extraction (CDR, ISNT rule, vessel ratios)
+
+Classification using SVM, MLP, AdaBoost
+
+Performance tuning, class imbalance handling, and evaluation
+
+🤝 Trust & Fairness in AI
+
+Evaluating toxicity, bias, and fairness metrics
+
+Working with demographic parity & equalized odds
+
+🌐 Web & Full-Stack Projects
+
+MERN stack applications
+
+Authentication systems (JWT, OTP flows)
+
+Clean UI with modern component libraries
+
+📚 Academic + Applied CS
+
+Algorithms, data mining, compiler design
+
+Balancing research thinking with hands-on implementation
+
+# What You’ll Find on My GitHub
+
+📁 End-to-end ML projects (data → model → evaluation)
+
+🌍 Full-stack applications with real-world use cases
+
+🧪 Experimental repos where I test ideas & architectures
+
+📖 Academic + course-related implementations
+
+I believe in writing readable code, understanding what I build, and continuously improving—one repo at a time.
 
 
 ## 🌐 Socials:
