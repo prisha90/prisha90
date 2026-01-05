@@ -44,6 +44,13 @@ I believe in writing readable code, understanding what I build and continuously 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prisha90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=prisha90&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!---
 prisha90/prisha90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
