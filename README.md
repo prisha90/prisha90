@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="header.png" alt="Prisha Agarwal" />
+  <img src="header.png" alt="Prisha Agarwal" width="1000" />
 </p>
+
 
 # 💫 About Me:
 Hey there! 👋 I’m Prisha (@prisha90)
