@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="Prisha Agarwal" width="1000"  height="500"/>
+  <img src="header.png" alt="Prisha Agarwal" width="1000"  height="300"/>
 </p>
 
 
