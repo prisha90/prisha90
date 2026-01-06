@@ -7,7 +7,7 @@
 Hey there! 👋 I’m Prisha (@prisha90)
 <br>
 🎓 B.E. (Hons.) Computer Science
-🤖 Exploring the intersection of AI, Machine Learning, and Full-Stack Development
+🤖 Exploring the intersection of AI, Machine Learning and Full-Stack Development
 
 I’m someone who enjoys learning by building. What started as a reluctance towards coding slowly turned into genuine curiosity and now, into a habit of shipping projects 🚀. From web apps to deep learning pipelines, I like working on ideas that are both technically challenging and practically useful.
 
